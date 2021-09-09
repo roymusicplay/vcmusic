@@ -61,10 +61,10 @@ async def start_(client: Client, message: Message):
                         "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
                     InlineKeyboardButton(
-                        "🌐 Wiki's Page", url="https://github.com/levina-lab/veezmusic/wiki/Veez-Music-Wiki's")
+                        "🌐 HELP GROUP", url="https://t.me/DOSTI_GROUP_1234")
                 ],[
                     InlineKeyboardButton(
-                        "🧪 Source Code 🧪", url="https://github.com/levina-lab/VeezMusic"
+                        "🧪 Official Owner 🧪", url="https://t.me/abhinasroy"
                     )
                 ]
             ]
